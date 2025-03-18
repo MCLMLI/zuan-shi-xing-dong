@@ -38,7 +38,9 @@
 
 * [总览](wu-pin/zong-lan.md)
 * [战斗用品](wu-pin/zhan-dou-yong-pin/README.md)
-  * [武器](wu-pin/zhan-dou-yong-pin/wu-qi.md)
+  * [武器](wu-pin/zhan-dou-yong-pin/wu-qi/README.md)
+    * [近战武器](wu-pin/zhan-dou-yong-pin/wu-qi/jin-zhan-wu-qi.md)
+    * [远程武器](wu-pin/zhan-dou-yong-pin/wu-qi/yuan-cheng-wu-qi.md)
   * [防具](wu-pin/zhan-dou-yong-pin/fang-ju.md)
   * [消耗品](wu-pin/zhan-dou-yong-pin/xiao-hao-pin/README.md)
     * [食品](wu-pin/zhan-dou-yong-pin/xiao-hao-pin/shi-pin.md)
@@ -47,8 +49,12 @@
     * [投掷物](wu-pin/zhan-dou-yong-pin/xiao-hao-pin/tou-zhi-wu.md)
     * [药水](wu-pin/zhan-dou-yong-pin/xiao-hao-pin/yao-shui.md)
   * [首领信物](wu-pin/zhan-dou-yong-pin/shou-ling-xin-wu.md)
-* [杂物](wu-pin/za-wu.md)
-* [钥匙](wu-pin/yao-shi.md)
+* [杂物](wu-pin/za-wu/README.md)
+  * [农场](wu-pin/za-wu/nong-chang.md)
+  * [机场](wu-pin/za-wu/ji-chang.md)
+* [钥匙](wu-pin/yao-shi/README.md)
+  * [农场](wu-pin/yao-shi/nong-chang.md)
+  * [机场](wu-pin/yao-shi/ji-chang.md)
 * [仓库兑换券](wu-pin/cang-ku-dui-huan-quan.md)
 
 ## 地图

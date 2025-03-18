@@ -16,4 +16,4 @@ description: 记住，在碧微国只有死人才是忠诚的
 
 <mark style="color:red;">只有队长才能选择地图，队长退出地图或者队长解散队伍会导致队员退出地图</mark>
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>队长解散队伍会导致队员退出地图</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>队长解散队伍会导致队员退出地图</p></figcaption></figure>
