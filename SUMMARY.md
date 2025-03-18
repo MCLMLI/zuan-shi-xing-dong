@@ -27,6 +27,7 @@
 ***
 
 * [钥匙房](yao-shi-fang.md)
+* [非原版护甲机制](fei-yuan-ban-hu-jia-ji-zhi.md)
 
 ## 指令
 
@@ -62,3 +63,8 @@
 * [总览](di-tu/zong-lan/README.md)
   * [农场](di-tu/zong-lan/nong-chang.md)
   * [机场](di-tu/zong-lan/ji-chang.md)
+
+## 游戏机制
+
+* [总览](you-xi-ji-zhi/zong-lan/README.md)
+  * [回复生命值](you-xi-ji-zhi/zong-lan/hui-fu-sheng-ming-zhi.md)
