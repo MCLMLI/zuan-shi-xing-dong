@@ -49,6 +49,7 @@
     * [箭矢](wu-pin/zhan-dou-yong-pin/xiao-hao-pin/jian-shi.md)
     * [投掷物](wu-pin/zhan-dou-yong-pin/xiao-hao-pin/tou-zhi-wu.md)
     * [药水](wu-pin/zhan-dou-yong-pin/xiao-hao-pin/yao-shui.md)
+    * [修理用品](wu-pin/zhan-dou-yong-pin/xiao-hao-pin/xiu-li-yong-pin.md)
   * [首领信物](wu-pin/zhan-dou-yong-pin/shou-ling-xin-wu.md)
 * [杂物](wu-pin/za-wu/README.md)
   * [农场](wu-pin/za-wu/nong-chang.md)
@@ -68,4 +69,5 @@
 
 * [总览](you-xi-ji-zhi/zong-lan/README.md)
   * [回复生命值](you-xi-ji-zhi/zong-lan/hui-fu-sheng-ming-zhi.md)
-  * [非原版护甲机制](you-xi-ji-zhi/zong-lan/fei-yuan-ban-hu-jia-ji-zhi.md)
+  * [护甲机制](you-xi-ji-zhi/zong-lan/hu-jia-ji-zhi.md)
+  * [钥匙房](you-xi-ji-zhi/zong-lan/yao-shi-fang.md)
