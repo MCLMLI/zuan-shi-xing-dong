@@ -30,7 +30,7 @@ description: 不使用医疗用品和再生药水将无法回复生命值
 
 <figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption><p>违反条件导致的治疗结束也会扣除一定的生命值上限</p></figcaption></figure>
 
-不同的医疗包的属性不一样，具体的属性信息请参考[医疗用品](../../wu-pin/zhan-dou-yong-pin/xiao-hao-pin/yi-liao-yong-pin.md)或者[鉴定物品](../../xin-shou-kuai-su-shang-shou/jian-ding-wu-pin.md)
+不同的医疗包的属性不一样，具体的属性信息请参考[医疗用品](../../wu-pin/zhan-dou-yong-pin/xiao-hao-pin/yi-liao-yong-pin.md)或者[鉴定物品](../../xin-shou-kuai-su-shang-shou/zen-me-jian-ding-wu-pin.md)
 
 每局游戏开始前会将玩家的生命值上限重置为40点(20颗心)
 

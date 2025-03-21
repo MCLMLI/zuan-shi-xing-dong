@@ -21,13 +21,14 @@
   * [在合适的时候前往撤离点](xin-shou-kuai-su-shang-shou/you-xi-liu-cheng/zai-he-shi-de-shi-hou-qian-wang-che-li-dian.md)
   * [撤离点](xin-shou-kuai-su-shang-shou/you-xi-liu-cheng/che-li-dian.md)
   * [快捷出售](xin-shou-kuai-su-shang-shou/you-xi-liu-cheng/kuai-jie-chu-shou.md)
-* [鉴定物品](xin-shou-kuai-su-shang-shou/jian-ding-wu-pin.md)
-* [回复生命值](xin-shou-kuai-su-shang-shou/hui-fu-sheng-ming-zhi.md)
+* [怎么鉴定物品](xin-shou-kuai-su-shang-shou/zen-me-jian-ding-wu-pin.md)
+* [怎么回复生命值](xin-shou-kuai-su-shang-shou/zen-me-hui-fu-sheng-ming-zhi.md)
 
 ***
 
-* [钥匙房](yao-shi-fang.md)
+* [铁门怎么打开](tie-men-zen-me-da-kai.md)
 * [非原版护甲机制](fei-yuan-ban-hu-jia-ji-zhi.md)
+* [怎么使用修理包](zen-me-shi-yong-xiu-li-bao.md)
 
 ## 指令
 

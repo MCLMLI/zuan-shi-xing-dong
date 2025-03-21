@@ -16,19 +16,19 @@ description: 人活着就是为了钱
 
 <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>输入数字1</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>即可打开打开批量出售页面</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>即可打开打开批量出售页面</p></figcaption></figure>
 
 将你想要出售的所有物品放在里面
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>将你想要出售的所有物品放在里面</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>将你想要出售的所有物品放在里面</p></figcaption></figure>
 
 然后使用ECS快捷键来一键出售你放进去的所有物品
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>然后使用ECS快捷键来一键出售你放进去的所有物品</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>然后使用ECS快捷键来一键出售你放进去的所有物品</p></figcaption></figure>
 
 输入数字2将背包内(不包括头盔、胸甲、护腿和副手)的所有可出售物品一键出售
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>输入数字2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>输入数字2</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>将背包内(不包括装备栏和副手)的所有可出售物品</p></figcaption></figure>
 
